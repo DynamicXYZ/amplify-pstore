@@ -1,5 +1,5 @@
 {
-  "name": "petstoreapp",
+  "name": "amplify-pstore",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
